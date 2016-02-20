@@ -2,10 +2,10 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.sqa.aa</groupId>
-	<artifactId>auto</artifactId>
+	<artifactId>database</artifactId>
 	<version>1.0-SNAPSHOT</version>
-	<name>Basic Auto Project</name>
-	<description>Basic Automation Selenium Project</description>
+	<name>Database Project</name>
+	<description>Database Project</description>
 	<dependencies>
 		<dependency>
 			<groupId>org.testng</groupId>
