@@ -1,6 +1,6 @@
-#  Basic Automation Project
+# Database Project
 
- Basic Java Selenium Automation Project 
+Database Project 
 
  * QA
  * Java
